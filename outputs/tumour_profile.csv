@@ -1,0 +1,16 @@
+tumour_site,tumour_grade,count,pct_of_total
+GI (colorectal),G1,10,6.7
+GI (colorectal),G2,6,4.0
+GI (colorectal),G3,4,2.7
+GI (small intestine),G1,16,10.7
+GI (small intestine),G2,20,13.3
+GI (small intestine),G3,7,4.7
+Lung,G1,11,7.3
+Lung,G2,8,5.3
+Lung,G3,6,4.0
+Other,G1,15,10.0
+Other,G2,6,4.0
+Other,G3,4,2.7
+Pancreatic,G1,9,6.0
+Pancreatic,G2,18,12.0
+Pancreatic,G3,10,6.7

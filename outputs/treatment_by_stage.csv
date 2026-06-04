@@ -1,0 +1,21 @@
+stage,primary_treatment,count
+I,SSA (Octreotide),1
+I,Surgery,11
+I,Watch & Wait,6
+II,SSA (Octreotide),7
+II,Surgery,21
+II,Watch & Wait,11
+III,Chemotherapy (EP),3
+III,Immunotherapy,3
+III,PRRT,6
+III,SSA (Lanreotide),9
+III,SSA (Octreotide),12
+III,Surgery,7
+IV,Chemotherapy (EP),9
+IV,Chemotherapy (FOLFOX),1
+IV,Everolimus,4
+IV,Immunotherapy,1
+IV,PRRT,16
+IV,SSA (Lanreotide),9
+IV,SSA (Octreotide),9
+IV,Sunitinib,4

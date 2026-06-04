@@ -1,0 +1,217 @@
+patient_id,rule_id,rule_name,field,observed_value,severity,status,recommendation
+NET-001,R01,Incomplete ENETS fields,enets_fields_complete,No,High,Open,Review patient record and complete all mandatory ENETS fields before next submission window.
+NET-001,R05,MDT discussion not recorded,mdt_discussed,No (diagnosed 782 days ago),Medium,Open,"Confirm whether patient was discussed at MDT. If yes, update record. If no, escalate to MDT coordinator."
+NET-002,R07,Chromogranin A not measured,chromogranin_a_measured,No,Medium,Open,"CgA is an ENETS mandatory biomarker. Confirm whether assay was performed and result not entered, or whether test needs to be ordered."
+NET-003,R01,Incomplete ENETS fields,enets_fields_complete,No,High,Open,Review patient record and complete all mandatory ENETS fields before next submission window.
+NET-003,R05,MDT discussion not recorded,mdt_discussed,No (diagnosed 192 days ago),Medium,Open,"Confirm whether patient was discussed at MDT. If yes, update record. If no, escalate to MDT coordinator."
+NET-003,R07,Chromogranin A not measured,chromogranin_a_measured,No,Medium,Open,"CgA is an ENETS mandatory biomarker. Confirm whether assay was performed and result not entered, or whether test needs to be ordered."
+NET-004,R01,Incomplete ENETS fields,enets_fields_complete,No,High,Open,Review patient record and complete all mandatory ENETS fields before next submission window.
+NET-005,R02,Overdue follow-up,followup_gap_days,1073 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-006,R01,Incomplete ENETS fields,enets_fields_complete,No,High,Open,Review patient record and complete all mandatory ENETS fields before next submission window.
+NET-006,R02,Overdue follow-up,followup_gap_days,964 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-007,R02,Overdue follow-up,followup_gap_days,794 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-007,R07,Chromogranin A not measured,chromogranin_a_measured,No,Medium,Open,"CgA is an ENETS mandatory biomarker. Confirm whether assay was performed and result not entered, or whether test needs to be ordered."
+NET-007,R09,Lost to follow-up on active treatment,outcome,Lost to follow-up,Medium,Open,Patient on active treatment marked as lost to follow-up. Escalate to clinical team — patient may need re-engagement.
+NET-008,R02,Overdue follow-up,followup_gap_days,1889 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-009,R02,Overdue follow-up,followup_gap_days,701 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-010,R02,Overdue follow-up,followup_gap_days,1765 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-010,R07,Chromogranin A not measured,chromogranin_a_measured,No,Medium,Open,"CgA is an ENETS mandatory biomarker. Confirm whether assay was performed and result not entered, or whether test needs to be ordered."
+NET-011,R02,Overdue follow-up,followup_gap_days,659 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-012,R01,Incomplete ENETS fields,enets_fields_complete,No,High,Open,Review patient record and complete all mandatory ENETS fields before next submission window.
+NET-012,R02,Overdue follow-up,followup_gap_days,991 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-013,R01,Incomplete ENETS fields,enets_fields_complete,No,High,Open,Review patient record and complete all mandatory ENETS fields before next submission window.
+NET-013,R02,Overdue follow-up,followup_gap_days,1559 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-013,R03,Treatment precedes diagnosis,treatment_start_date,2019-01-17 < 2019-01-30,High,Open,Date error — verify both dates with clinical records and correct.
+NET-014,R02,Overdue follow-up,followup_gap_days,1225 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-015,R01,Incomplete ENETS fields,enets_fields_complete,No,High,Open,Review patient record and complete all mandatory ENETS fields before next submission window.
+NET-015,R02,Overdue follow-up,followup_gap_days,1862 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-016,R02,Overdue follow-up,followup_gap_days,714 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-016,R04,G3 grade with Watch & Wait,primary_treatment,Watch & Wait (G3 tumour),High,Open,Clinical review required — G3 NETs typically require active treatment. Verify treatment record with Lead NET Consultant.
+NET-016,R05,MDT discussion not recorded,mdt_discussed,No (diagnosed 1374 days ago),Medium,Open,"Confirm whether patient was discussed at MDT. If yes, update record. If no, escalate to MDT coordinator."
+NET-017,R02,Overdue follow-up,followup_gap_days,1423 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-017,R05,MDT discussion not recorded,mdt_discussed,No (diagnosed 2035 days ago),Medium,Open,"Confirm whether patient was discussed at MDT. If yes, update record. If no, escalate to MDT coordinator."
+NET-017,R09,Lost to follow-up on active treatment,outcome,Lost to follow-up,Medium,Open,Patient on active treatment marked as lost to follow-up. Escalate to clinical team — patient may need re-engagement.
+NET-018,R02,Overdue follow-up,followup_gap_days,1845 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-019,R02,Overdue follow-up,followup_gap_days,513 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-019,R07,Chromogranin A not measured,chromogranin_a_measured,No,Medium,Open,"CgA is an ENETS mandatory biomarker. Confirm whether assay was performed and result not entered, or whether test needs to be ordered."
+NET-019,R09,Lost to follow-up on active treatment,outcome,Lost to follow-up,Medium,Open,Patient on active treatment marked as lost to follow-up. Escalate to clinical team — patient may need re-engagement.
+NET-020,R01,Incomplete ENETS fields,enets_fields_complete,No,High,Open,Review patient record and complete all mandatory ENETS fields before next submission window.
+NET-020,R02,Overdue follow-up,followup_gap_days,1430 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-020,R05,MDT discussion not recorded,mdt_discussed,No (diagnosed 2021 days ago),Medium,Open,"Confirm whether patient was discussed at MDT. If yes, update record. If no, escalate to MDT coordinator."
+NET-020,R09,Lost to follow-up on active treatment,outcome,Lost to follow-up,Medium,Open,Patient on active treatment marked as lost to follow-up. Escalate to clinical team — patient may need re-engagement.
+NET-021,R01,Incomplete ENETS fields,enets_fields_complete,No,High,Open,Review patient record and complete all mandatory ENETS fields before next submission window.
+NET-021,R07,Chromogranin A not measured,chromogranin_a_measured,No,Medium,Open,"CgA is an ENETS mandatory biomarker. Confirm whether assay was performed and result not entered, or whether test needs to be ordered."
+NET-022,R02,Overdue follow-up,followup_gap_days,1307 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-023,R02,Overdue follow-up,followup_gap_days,830 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-023,R05,MDT discussion not recorded,mdt_discussed,No (diagnosed 1171 days ago),Medium,Open,"Confirm whether patient was discussed at MDT. If yes, update record. If no, escalate to MDT coordinator."
+NET-023,R07,Chromogranin A not measured,chromogranin_a_measured,No,Medium,Open,"CgA is an ENETS mandatory biomarker. Confirm whether assay was performed and result not entered, or whether test needs to be ordered."
+NET-023,R09,Lost to follow-up on active treatment,outcome,Lost to follow-up,Medium,Open,Patient on active treatment marked as lost to follow-up. Escalate to clinical team — patient may need re-engagement.
+NET-025,R02,Overdue follow-up,followup_gap_days,1189 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-026,R01,Incomplete ENETS fields,enets_fields_complete,No,High,Open,Review patient record and complete all mandatory ENETS fields before next submission window.
+NET-026,R02,Overdue follow-up,followup_gap_days,1300 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-027,R05,MDT discussion not recorded,mdt_discussed,No (diagnosed 375 days ago),Medium,Open,"Confirm whether patient was discussed at MDT. If yes, update record. If no, escalate to MDT coordinator."
+NET-027,R07,Chromogranin A not measured,chromogranin_a_measured,No,Medium,Open,"CgA is an ENETS mandatory biomarker. Confirm whether assay was performed and result not entered, or whether test needs to be ordered."
+NET-028,R02,Overdue follow-up,followup_gap_days,693 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-028,R05,MDT discussion not recorded,mdt_discussed,No (diagnosed 1316 days ago),Medium,Open,"Confirm whether patient was discussed at MDT. If yes, update record. If no, escalate to MDT coordinator."
+NET-029,R05,MDT discussion not recorded,mdt_discussed,No (diagnosed 374 days ago),Medium,Open,"Confirm whether patient was discussed at MDT. If yes, update record. If no, escalate to MDT coordinator."
+NET-031,R02,Overdue follow-up,followup_gap_days,1173 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-032,R02,Overdue follow-up,followup_gap_days,1419 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-033,R02,Overdue follow-up,followup_gap_days,1432 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-033,R09,Lost to follow-up on active treatment,outcome,Lost to follow-up,Medium,Open,Patient on active treatment marked as lost to follow-up. Escalate to clinical team — patient may need re-engagement.
+NET-035,R01,Incomplete ENETS fields,enets_fields_complete,No,High,Open,Review patient record and complete all mandatory ENETS fields before next submission window.
+NET-036,R09,Lost to follow-up on active treatment,outcome,Lost to follow-up,Medium,Open,Patient on active treatment marked as lost to follow-up. Escalate to clinical team — patient may need re-engagement.
+NET-038,R01,Incomplete ENETS fields,enets_fields_complete,No,High,Open,Review patient record and complete all mandatory ENETS fields before next submission window.
+NET-039,R02,Overdue follow-up,followup_gap_days,1248 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-040,R01,Incomplete ENETS fields,enets_fields_complete,No,High,Open,Review patient record and complete all mandatory ENETS fields before next submission window.
+NET-040,R02,Overdue follow-up,followup_gap_days,1063 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-041,R02,Overdue follow-up,followup_gap_days,1280 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-042,R02,Overdue follow-up,followup_gap_days,459 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-042,R04,G3 grade with Watch & Wait,primary_treatment,Watch & Wait (G3 tumour),High,Open,Clinical review required — G3 NETs typically require active treatment. Verify treatment record with Lead NET Consultant.
+NET-044,R02,Overdue follow-up,followup_gap_days,1748 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-045,R02,Overdue follow-up,followup_gap_days,973 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-045,R09,Lost to follow-up on active treatment,outcome,Lost to follow-up,Medium,Open,Patient on active treatment marked as lost to follow-up. Escalate to clinical team — patient may need re-engagement.
+NET-046,R02,Overdue follow-up,followup_gap_days,970 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-047,R02,Overdue follow-up,followup_gap_days,823 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-048,R03,Treatment precedes diagnosis,treatment_start_date,2023-12-21 < 2024-01-12,High,Open,Date error — verify both dates with clinical records and correct.
+NET-049,R02,Overdue follow-up,followup_gap_days,1073 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-049,R05,MDT discussion not recorded,mdt_discussed,No (diagnosed 1737 days ago),Medium,Open,"Confirm whether patient was discussed at MDT. If yes, update record. If no, escalate to MDT coordinator."
+NET-049,R09,Lost to follow-up on active treatment,outcome,Lost to follow-up,Medium,Open,Patient on active treatment marked as lost to follow-up. Escalate to clinical team — patient may need re-engagement.
+NET-050,R01,Incomplete ENETS fields,enets_fields_complete,No,High,Open,Review patient record and complete all mandatory ENETS fields before next submission window.
+NET-051,R01,Incomplete ENETS fields,enets_fields_complete,No,High,Open,Review patient record and complete all mandatory ENETS fields before next submission window.
+NET-051,R02,Overdue follow-up,followup_gap_days,1435 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-052,R01,Incomplete ENETS fields,enets_fields_complete,No,High,Open,Review patient record and complete all mandatory ENETS fields before next submission window.
+NET-054,R02,Overdue follow-up,followup_gap_days,1018 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-054,R07,Chromogranin A not measured,chromogranin_a_measured,No,Medium,Open,"CgA is an ENETS mandatory biomarker. Confirm whether assay was performed and result not entered, or whether test needs to be ordered."
+NET-055,R02,Overdue follow-up,followup_gap_days,1285 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-057,R02,Overdue follow-up,followup_gap_days,1650 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-057,R05,MDT discussion not recorded,mdt_discussed,No (diagnosed 1910 days ago),Medium,Open,"Confirm whether patient was discussed at MDT. If yes, update record. If no, escalate to MDT coordinator."
+NET-058,R02,Overdue follow-up,followup_gap_days,1249 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-058,R09,Lost to follow-up on active treatment,outcome,Lost to follow-up,Medium,Open,Patient on active treatment marked as lost to follow-up. Escalate to clinical team — patient may need re-engagement.
+NET-059,R02,Overdue follow-up,followup_gap_days,2018 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-059,R05,MDT discussion not recorded,mdt_discussed,No (diagnosed 2251 days ago),Medium,Open,"Confirm whether patient was discussed at MDT. If yes, update record. If no, escalate to MDT coordinator."
+NET-059,R09,Lost to follow-up on active treatment,outcome,Lost to follow-up,Medium,Open,Patient on active treatment marked as lost to follow-up. Escalate to clinical team — patient may need re-engagement.
+NET-060,R02,Overdue follow-up,followup_gap_days,1749 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-061,R02,Overdue follow-up,followup_gap_days,1288 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-062,R02,Overdue follow-up,followup_gap_days,1553 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-062,R09,Lost to follow-up on active treatment,outcome,Lost to follow-up,Medium,Open,Patient on active treatment marked as lost to follow-up. Escalate to clinical team — patient may need re-engagement.
+NET-063,R02,Overdue follow-up,followup_gap_days,367 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-064,R01,Incomplete ENETS fields,enets_fields_complete,No,High,Open,Review patient record and complete all mandatory ENETS fields before next submission window.
+NET-066,R02,Overdue follow-up,followup_gap_days,536 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-066,R05,MDT discussion not recorded,mdt_discussed,No (diagnosed 1436 days ago),Medium,Open,"Confirm whether patient was discussed at MDT. If yes, update record. If no, escalate to MDT coordinator."
+NET-067,R07,Chromogranin A not measured,chromogranin_a_measured,No,Medium,Open,"CgA is an ENETS mandatory biomarker. Confirm whether assay was performed and result not entered, or whether test needs to be ordered."
+NET-068,R01,Incomplete ENETS fields,enets_fields_complete,No,High,Open,Review patient record and complete all mandatory ENETS fields before next submission window.
+NET-068,R02,Overdue follow-up,followup_gap_days,1967 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-069,R02,Overdue follow-up,followup_gap_days,1141 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-070,R09,Lost to follow-up on active treatment,outcome,Lost to follow-up,Medium,Open,Patient on active treatment marked as lost to follow-up. Escalate to clinical team — patient may need re-engagement.
+NET-071,R02,Overdue follow-up,followup_gap_days,1629 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-072,R07,Chromogranin A not measured,chromogranin_a_measured,No,Medium,Open,"CgA is an ENETS mandatory biomarker. Confirm whether assay was performed and result not entered, or whether test needs to be ordered."
+NET-073,R02,Overdue follow-up,followup_gap_days,996 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-074,R07,Chromogranin A not measured,chromogranin_a_measured,No,Medium,Open,"CgA is an ENETS mandatory biomarker. Confirm whether assay was performed and result not entered, or whether test needs to be ordered."
+NET-075,R01,Incomplete ENETS fields,enets_fields_complete,No,High,Open,Review patient record and complete all mandatory ENETS fields before next submission window.
+NET-075,R02,Overdue follow-up,followup_gap_days,400 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-076,R04,G3 grade with Watch & Wait,primary_treatment,Watch & Wait (G3 tumour),High,Open,Clinical review required — G3 NETs typically require active treatment. Verify treatment record with Lead NET Consultant.
+NET-076,R07,Chromogranin A not measured,chromogranin_a_measured,No,Medium,Open,"CgA is an ENETS mandatory biomarker. Confirm whether assay was performed and result not entered, or whether test needs to be ordered."
+NET-078,R01,Incomplete ENETS fields,enets_fields_complete,No,High,Open,Review patient record and complete all mandatory ENETS fields before next submission window.
+NET-078,R02,Overdue follow-up,followup_gap_days,1238 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-079,R02,Overdue follow-up,followup_gap_days,1255 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-079,R05,MDT discussion not recorded,mdt_discussed,No (diagnosed 1534 days ago),Medium,Open,"Confirm whether patient was discussed at MDT. If yes, update record. If no, escalate to MDT coordinator."
+NET-080,R02,Overdue follow-up,followup_gap_days,915 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-081,R02,Overdue follow-up,followup_gap_days,719 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-081,R09,Lost to follow-up on active treatment,outcome,Lost to follow-up,Medium,Open,Patient on active treatment marked as lost to follow-up. Escalate to clinical team — patient may need re-engagement.
+NET-082,R02,Overdue follow-up,followup_gap_days,1338 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-083,R01,Incomplete ENETS fields,enets_fields_complete,No,High,Open,Review patient record and complete all mandatory ENETS fields before next submission window.
+NET-083,R02,Overdue follow-up,followup_gap_days,2027 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-083,R04,G3 grade with Watch & Wait,primary_treatment,Watch & Wait (G3 tumour),High,Open,Clinical review required — G3 NETs typically require active treatment. Verify treatment record with Lead NET Consultant.
+NET-084,R03,Treatment precedes diagnosis,treatment_start_date,2022-06-08 < 2022-07-08,High,Open,Date error — verify both dates with clinical records and correct.
+NET-084,R05,MDT discussion not recorded,mdt_discussed,No (diagnosed 1027 days ago),Medium,Open,"Confirm whether patient was discussed at MDT. If yes, update record. If no, escalate to MDT coordinator."
+NET-085,R01,Incomplete ENETS fields,enets_fields_complete,No,High,Open,Review patient record and complete all mandatory ENETS fields before next submission window.
+NET-085,R02,Overdue follow-up,followup_gap_days,1259 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-086,R02,Overdue follow-up,followup_gap_days,1967 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-089,R05,MDT discussion not recorded,mdt_discussed,No (diagnosed 136 days ago),Medium,Open,"Confirm whether patient was discussed at MDT. If yes, update record. If no, escalate to MDT coordinator."
+NET-090,R02,Overdue follow-up,followup_gap_days,1457 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-091,R01,Incomplete ENETS fields,enets_fields_complete,No,High,Open,Review patient record and complete all mandatory ENETS fields before next submission window.
+NET-091,R02,Overdue follow-up,followup_gap_days,1226 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-091,R09,Lost to follow-up on active treatment,outcome,Lost to follow-up,Medium,Open,Patient on active treatment marked as lost to follow-up. Escalate to clinical team — patient may need re-engagement.
+NET-093,R01,Incomplete ENETS fields,enets_fields_complete,No,High,Open,Review patient record and complete all mandatory ENETS fields before next submission window.
+NET-093,R02,Overdue follow-up,followup_gap_days,1423 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-093,R05,MDT discussion not recorded,mdt_discussed,No (diagnosed 1983 days ago),Medium,Open,"Confirm whether patient was discussed at MDT. If yes, update record. If no, escalate to MDT coordinator."
+NET-094,R02,Overdue follow-up,followup_gap_days,1045 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-094,R09,Lost to follow-up on active treatment,outcome,Lost to follow-up,Medium,Open,Patient on active treatment marked as lost to follow-up. Escalate to clinical team — patient may need re-engagement.
+NET-095,R01,Incomplete ENETS fields,enets_fields_complete,No,High,Open,Review patient record and complete all mandatory ENETS fields before next submission window.
+NET-095,R02,Overdue follow-up,followup_gap_days,1950 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-095,R05,MDT discussion not recorded,mdt_discussed,No (diagnosed 2031 days ago),Medium,Open,"Confirm whether patient was discussed at MDT. If yes, update record. If no, escalate to MDT coordinator."
+NET-095,R09,Lost to follow-up on active treatment,outcome,Lost to follow-up,Medium,Open,Patient on active treatment marked as lost to follow-up. Escalate to clinical team — patient may need re-engagement.
+NET-096,R02,Overdue follow-up,followup_gap_days,1433 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-097,R02,Overdue follow-up,followup_gap_days,1063 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-098,R01,Incomplete ENETS fields,enets_fields_complete,No,High,Open,Review patient record and complete all mandatory ENETS fields before next submission window.
+NET-099,R02,Overdue follow-up,followup_gap_days,1666 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-099,R07,Chromogranin A not measured,chromogranin_a_measured,No,Medium,Open,"CgA is an ENETS mandatory biomarker. Confirm whether assay was performed and result not entered, or whether test needs to be ordered."
+NET-100,R02,Overdue follow-up,followup_gap_days,806 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-100,R09,Lost to follow-up on active treatment,outcome,Lost to follow-up,Medium,Open,Patient on active treatment marked as lost to follow-up. Escalate to clinical team — patient may need re-engagement.
+NET-101,R02,Overdue follow-up,followup_gap_days,1983 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-101,R09,Lost to follow-up on active treatment,outcome,Lost to follow-up,Medium,Open,Patient on active treatment marked as lost to follow-up. Escalate to clinical team — patient may need re-engagement.
+NET-102,R02,Overdue follow-up,followup_gap_days,1126 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-102,R09,Lost to follow-up on active treatment,outcome,Lost to follow-up,Medium,Open,Patient on active treatment marked as lost to follow-up. Escalate to clinical team — patient may need re-engagement.
+NET-103,R01,Incomplete ENETS fields,enets_fields_complete,No,High,Open,Review patient record and complete all mandatory ENETS fields before next submission window.
+NET-105,R01,Incomplete ENETS fields,enets_fields_complete,No,High,Open,Review patient record and complete all mandatory ENETS fields before next submission window.
+NET-105,R02,Overdue follow-up,followup_gap_days,443 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-105,R07,Chromogranin A not measured,chromogranin_a_measured,No,Medium,Open,"CgA is an ENETS mandatory biomarker. Confirm whether assay was performed and result not entered, or whether test needs to be ordered."
+NET-106,R02,Overdue follow-up,followup_gap_days,641 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-106,R05,MDT discussion not recorded,mdt_discussed,No (diagnosed 1243 days ago),Medium,Open,"Confirm whether patient was discussed at MDT. If yes, update record. If no, escalate to MDT coordinator."
+NET-107,R02,Overdue follow-up,followup_gap_days,836 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-107,R05,MDT discussion not recorded,mdt_discussed,No (diagnosed 1475 days ago),Medium,Open,"Confirm whether patient was discussed at MDT. If yes, update record. If no, escalate to MDT coordinator."
+NET-108,R02,Overdue follow-up,followup_gap_days,671 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-108,R05,MDT discussion not recorded,mdt_discussed,No (diagnosed 1025 days ago),Medium,Open,"Confirm whether patient was discussed at MDT. If yes, update record. If no, escalate to MDT coordinator."
+NET-108,R07,Chromogranin A not measured,chromogranin_a_measured,No,Medium,Open,"CgA is an ENETS mandatory biomarker. Confirm whether assay was performed and result not entered, or whether test needs to be ordered."
+NET-109,R02,Overdue follow-up,followup_gap_days,531 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-109,R05,MDT discussion not recorded,mdt_discussed,No (diagnosed 1334 days ago),Medium,Open,"Confirm whether patient was discussed at MDT. If yes, update record. If no, escalate to MDT coordinator."
+NET-110,R02,Overdue follow-up,followup_gap_days,741 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-112,R02,Overdue follow-up,followup_gap_days,911 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-113,R07,Chromogranin A not measured,chromogranin_a_measured,No,Medium,Open,"CgA is an ENETS mandatory biomarker. Confirm whether assay was performed and result not entered, or whether test needs to be ordered."
+NET-114,R07,Chromogranin A not measured,chromogranin_a_measured,No,Medium,Open,"CgA is an ENETS mandatory biomarker. Confirm whether assay was performed and result not entered, or whether test needs to be ordered."
+NET-115,R02,Overdue follow-up,followup_gap_days,550 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-116,R01,Incomplete ENETS fields,enets_fields_complete,No,High,Open,Review patient record and complete all mandatory ENETS fields before next submission window.
+NET-116,R02,Overdue follow-up,followup_gap_days,1134 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-117,R02,Overdue follow-up,followup_gap_days,1682 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-119,R02,Overdue follow-up,followup_gap_days,1710 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-119,R07,Chromogranin A not measured,chromogranin_a_measured,No,Medium,Open,"CgA is an ENETS mandatory biomarker. Confirm whether assay was performed and result not entered, or whether test needs to be ordered."
+NET-120,R02,Overdue follow-up,followup_gap_days,1220 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-120,R03,Treatment precedes diagnosis,treatment_start_date,2019-10-20 < 2019-10-28,High,Open,Date error — verify both dates with clinical records and correct.
+NET-121,R02,Overdue follow-up,followup_gap_days,922 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-123,R02,Overdue follow-up,followup_gap_days,930 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-123,R09,Lost to follow-up on active treatment,outcome,Lost to follow-up,Medium,Open,Patient on active treatment marked as lost to follow-up. Escalate to clinical team — patient may need re-engagement.
+NET-124,R02,Overdue follow-up,followup_gap_days,970 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-125,R02,Overdue follow-up,followup_gap_days,599 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-125,R05,MDT discussion not recorded,mdt_discussed,No (diagnosed 882 days ago),Medium,Open,"Confirm whether patient was discussed at MDT. If yes, update record. If no, escalate to MDT coordinator."
+NET-126,R01,Incomplete ENETS fields,enets_fields_complete,No,High,Open,Review patient record and complete all mandatory ENETS fields before next submission window.
+NET-126,R02,Overdue follow-up,followup_gap_days,1140 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-126,R05,MDT discussion not recorded,mdt_discussed,No (diagnosed 2030 days ago),Medium,Open,"Confirm whether patient was discussed at MDT. If yes, update record. If no, escalate to MDT coordinator."
+NET-126,R09,Lost to follow-up on active treatment,outcome,Lost to follow-up,Medium,Open,Patient on active treatment marked as lost to follow-up. Escalate to clinical team — patient may need re-engagement.
+NET-127,R02,Overdue follow-up,followup_gap_days,629 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-128,R02,Overdue follow-up,followup_gap_days,485 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-128,R07,Chromogranin A not measured,chromogranin_a_measured,No,Medium,Open,"CgA is an ENETS mandatory biomarker. Confirm whether assay was performed and result not entered, or whether test needs to be ordered."
+NET-130,R02,Overdue follow-up,followup_gap_days,839 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-132,R01,Incomplete ENETS fields,enets_fields_complete,No,High,Open,Review patient record and complete all mandatory ENETS fields before next submission window.
+NET-132,R02,Overdue follow-up,followup_gap_days,546 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-134,R02,Overdue follow-up,followup_gap_days,2005 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-135,R02,Overdue follow-up,followup_gap_days,774 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-136,R02,Overdue follow-up,followup_gap_days,1407 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-137,R02,Overdue follow-up,followup_gap_days,1652 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-138,R02,Overdue follow-up,followup_gap_days,468 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-139,R02,Overdue follow-up,followup_gap_days,1517 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-139,R07,Chromogranin A not measured,chromogranin_a_measured,No,Medium,Open,"CgA is an ENETS mandatory biomarker. Confirm whether assay was performed and result not entered, or whether test needs to be ordered."
+NET-139,R09,Lost to follow-up on active treatment,outcome,Lost to follow-up,Medium,Open,Patient on active treatment marked as lost to follow-up. Escalate to clinical team — patient may need re-engagement.
+NET-140,R02,Overdue follow-up,followup_gap_days,1603 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-141,R02,Overdue follow-up,followup_gap_days,1367 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-141,R09,Lost to follow-up on active treatment,outcome,Lost to follow-up,Medium,Open,Patient on active treatment marked as lost to follow-up. Escalate to clinical team — patient may need re-engagement.
+NET-142,R02,Overdue follow-up,followup_gap_days,823 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-142,R09,Lost to follow-up on active treatment,outcome,Lost to follow-up,Medium,Open,Patient on active treatment marked as lost to follow-up. Escalate to clinical team — patient may need re-engagement.
+NET-143,R02,Overdue follow-up,followup_gap_days,800 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-144,R02,Overdue follow-up,followup_gap_days,866 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-145,R02,Overdue follow-up,followup_gap_days,795 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-145,R09,Lost to follow-up on active treatment,outcome,Lost to follow-up,Medium,Open,Patient on active treatment marked as lost to follow-up. Escalate to clinical team — patient may need re-engagement.
+NET-146,R02,Overdue follow-up,followup_gap_days,1307 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-146,R07,Chromogranin A not measured,chromogranin_a_measured,No,Medium,Open,"CgA is an ENETS mandatory biomarker. Confirm whether assay was performed and result not entered, or whether test needs to be ordered."
+NET-147,R02,Overdue follow-up,followup_gap_days,1046 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.
+NET-149,R01,Incomplete ENETS fields,enets_fields_complete,No,High,Open,Review patient record and complete all mandatory ENETS fields before next submission window.
+NET-150,R02,Overdue follow-up,followup_gap_days,543 days,Medium,Open,Contact clinical team to schedule follow-up appointment or confirm patient status.

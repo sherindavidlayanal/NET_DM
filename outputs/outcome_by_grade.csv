@@ -1,0 +1,16 @@
+tumour_grade,outcome,count
+G1,Complete remission,4
+G1,Deceased,2
+G1,Lost to follow-up,15
+G1,Progressive disease,5
+G1,Stable disease,35
+G2,Complete remission,5
+G2,Deceased,2
+G2,Lost to follow-up,13
+G2,Progressive disease,4
+G2,Stable disease,34
+G3,Complete remission,2
+G3,Deceased,4
+G3,Lost to follow-up,4
+G3,Progressive disease,7
+G3,Stable disease,14

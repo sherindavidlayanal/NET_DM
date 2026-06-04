@@ -1,0 +1,151 @@
+patient_id,age_at_diagnosis,sex,referring_health_board,diagnosis_date,tumour_site,tumour_grade,ki67_percent,stage,functional_status,imaging_at_diagnosis,chromogranin_a_measured,primary_treatment,treatment_start_date,last_followup_date,followup_gap_days,mdt_discussed,enets_fields_complete,outcome
+NET-001,68,Female,Cardiff and Vale UHB,2023-03-10,Pancreatic,G3,48.8,I,Functional,MRI,Yes,Surgery,2023-03-30,2025-02-19,70,No,No,Complete remission
+NET-002,81,Male,NHS England,2023-11-30,Other,G1,0.6,IV,Functional,CT,No,PRRT,2023-12-25,2025-02-20,69,Yes,Yes,Stable disease
+NET-003,58,Male,Cwm Taf Morgannwg UHB,2024-10-20,Other,G2,7.6,III,Non-functional,CT,No,SSA (Octreotide),2025-01-23,2025-04-30,0,No,No,Deceased
+NET-004,44,Male,Cwm Taf Morgannwg UHB,2024-01-24,Other,G2,6.8,IV,Non-functional,CT + DOTATATE,Yes,SSA (Lanreotide),2024-04-01,2025-04-10,20,Yes,No,Stable disease
+NET-005,72,Male,Cardiff and Vale UHB,2020-05-10,GI (small intestine),G1,2.3,III,Functional,CT,Yes,SSA (Lanreotide),2020-09-07,2022-05-23,1073,Yes,Yes,Stable disease
+NET-006,37,Female,Aneurin Bevan UHB,2021-10-12,Pancreatic,G3,50.5,IV,Non-functional,MRI,Yes,Chemotherapy (EP),2021-11-30,2022-09-09,964,Yes,No,Progressive disease
+NET-007,50,Male,Cardiff and Vale UHB,2021-07-09,Other,G1,2.6,IV,Functional,CT,No,SSA (Lanreotide),2021-07-28,2023-02-26,794,Yes,Yes,Lost to follow-up
+NET-008,68,Male,Betsi Cadwaladr UHB,2019-09-20,Pancreatic,G3,23.9,IV,Non-functional,MRI,Yes,Chemotherapy (EP),2019-10-04,2020-02-27,1889,Yes,Yes,Progressive disease
+NET-009,48,Female,Cardiff and Vale UHB,2022-10-16,GI (small intestine),G1,1.5,IV,Non-functional,CT,Yes,SSA (Octreotide),2022-12-11,2023-05-30,701,Yes,Yes,Stable disease
+NET-010,52,Male,Cardiff and Vale UHB,2019-03-28,GI (colorectal),G2,3.5,III,Non-functional,DOTATATE PET-CT,No,Surgery,2019-07-18,2020-06-30,1765,Yes,Yes,Stable disease
+NET-011,40,Male,Cardiff and Vale UHB,2021-07-31,Other,G1,1.0,II,Non-functional,CT,Yes,Surgery,2021-08-30,2023-07-11,659,Yes,Yes,Stable disease
+NET-012,40,Female,Swansea Bay UHB,2021-06-21,Lung,G1,1.7,I,Non-functional,CT + DOTATATE,Yes,Watch & Wait,2021-09-24,2022-08-13,991,Yes,No,Stable disease
+NET-013,53,Male,Cwm Taf Morgannwg UHB,2019-01-30,GI (colorectal),G3,21.2,IV,Functional,CT,Yes,Chemotherapy (EP),2019-01-17,2021-01-22,1559,Yes,No,Progressive disease
+NET-014,65,Male,Cardiff and Vale UHB,2019-10-18,GI (small intestine),G1,1.0,IV,Non-functional,DOTATATE PET-CT,Yes,PRRT,2019-11-21,2021-12-22,1225,Yes,Yes,Stable disease
+NET-015,69,Male,Aneurin Bevan UHB,2019-08-30,GI (colorectal),G1,2.1,IV,Functional,CT + DOTATATE,Yes,PRRT,2019-12-16,2020-03-25,1862,Yes,No,Stable disease
+NET-016,53,Male,Swansea Bay UHB,2021-07-26,Other,G3,44.5,II,Non-functional,DOTATATE PET-CT,Yes,Watch & Wait,2021-10-04,2023-05-17,714,No,Yes,Stable disease
+NET-017,32,Female,Cwm Taf Morgannwg UHB,2019-10-04,GI (small intestine),G3,29.9,II,Non-functional,DOTATATE PET-CT,Yes,Surgery,2019-12-27,2021-06-07,1423,No,Yes,Lost to follow-up
+NET-018,51,Female,Swansea Bay UHB,2019-05-09,Pancreatic,G2,13.0,I,Non-functional,MRI,Yes,Surgery,2019-08-21,2020-04-11,1845,Yes,Yes,Stable disease
+NET-019,31,Female,Swansea Bay UHB,2022-09-15,Other,G2,16.7,III,Non-functional,MRI,No,SSA (Octreotide),2022-11-22,2023-12-04,513,Yes,Yes,Lost to follow-up
+NET-020,53,Female,Cwm Taf Morgannwg UHB,2019-10-18,Lung,G2,3.1,IV,Non-functional,DOTATATE PET-CT,Yes,Sunitinib,2020-01-11,2021-05-31,1430,No,No,Lost to follow-up
+NET-021,73,Female,Cardiff and Vale UHB,2024-10-06,Lung,G1,2.4,III,Non-functional,CT + DOTATATE,No,PRRT,2024-10-21,2025-04-30,0,Yes,No,Progressive disease
+NET-022,59,Male,Cardiff and Vale UHB,2021-09-01,Lung,G1,2.2,III,Non-functional,DOTATATE PET-CT,Yes,Surgery,2021-09-29,2021-10-01,1307,Yes,Yes,Stable disease
+NET-023,67,Female,Hywel Dda UHB,2022-02-14,Pancreatic,G2,8.8,IV,Functional,DOTATATE PET-CT,No,SSA (Octreotide),2022-03-09,2023-01-21,830,No,Yes,Lost to follow-up
+NET-024,31,Female,Betsi Cadwaladr UHB,2024-06-11,GI (small intestine),G2,5.6,III,Functional,DOTATATE PET-CT,Yes,PRRT,2024-09-21,2025-04-30,0,Yes,Yes,Stable disease
+NET-025,50,Female,Swansea Bay UHB,2021-05-27,Lung,G2,19.2,III,Functional,Octreoscan,Yes,Surgery,2021-06-29,2022-01-27,1189,Yes,Yes,Stable disease
+NET-026,62,Female,Cardiff and Vale UHB,2020-06-25,Lung,G2,8.7,IV,Functional,CT,Yes,SSA (Octreotide),2020-09-16,2021-10-08,1300,Yes,No,Stable disease
+NET-027,41,Male,Aneurin Bevan UHB,2024-04-20,Other,G1,0.7,III,Non-functional,DOTATATE PET-CT,No,SSA (Octreotide),2024-05-08,2025-04-30,0,No,Yes,Deceased
+NET-028,51,Male,Swansea Bay UHB,2021-09-22,Other,G1,0.7,IV,Functional,CT + DOTATATE,Yes,PRRT,2022-01-20,2023-06-07,693,No,Yes,Stable disease
+NET-029,73,Male,Cardiff and Vale UHB,2024-04-21,Pancreatic,G1,2.5,IV,Non-functional,CT,Yes,PRRT,2024-06-21,2025-04-30,0,No,Yes,Deceased
+NET-030,54,Male,Cardiff and Vale UHB,2023-07-26,Pancreatic,G2,13.2,IV,Functional,DOTATATE PET-CT,Yes,Everolimus,2023-10-22,2025-04-30,0,Yes,Yes,Stable disease
+NET-031,78,Female,Aneurin Bevan UHB,2021-02-18,Lung,G2,16.6,II,Functional,CT,Yes,Surgery,2021-05-13,2022-02-12,1173,Yes,Yes,Stable disease
+NET-032,56,Female,Aneurin Bevan UHB,2020-01-22,GI (colorectal),G2,15.3,IV,Non-functional,DOTATATE PET-CT,Yes,PRRT,2020-02-23,2021-06-11,1419,Yes,Yes,Stable disease
+NET-033,71,Male,Cardiff and Vale UHB,2020-02-02,Lung,G1,1.8,III,Non-functional,CT,Yes,SSA (Octreotide),2020-04-11,2021-05-29,1432,Yes,Yes,Lost to follow-up
+NET-034,57,Male,Cardiff and Vale UHB,2023-11-01,Lung,G1,2.8,II,Non-functional,Octreoscan,Yes,Surgery,2023-12-01,2025-02-25,64,Yes,Yes,Stable disease
+NET-035,45,Male,Cardiff and Vale UHB,2022-12-22,Other,G1,1.4,III,Non-functional,DOTATATE PET-CT,Yes,SSA (Octreotide),2023-01-10,2024-12-12,139,Yes,No,Stable disease
+NET-036,44,Male,Aneurin Bevan UHB,2023-10-01,Pancreatic,G2,12.3,IV,Non-functional,MRI,Yes,Everolimus,2023-11-23,2024-06-05,329,Yes,Yes,Lost to follow-up
+NET-037,76,Male,Cardiff and Vale UHB,2023-08-11,Pancreatic,G2,17.0,III,Functional,DOTATATE PET-CT,Yes,PRRT,2023-10-10,2025-02-14,75,Yes,Yes,Stable disease
+NET-038,80,Male,Cardiff and Vale UHB,2024-03-27,GI (small intestine),G1,2.0,III,Non-functional,DOTATATE PET-CT,Yes,SSA (Lanreotide),2024-07-20,2025-04-30,0,Yes,No,Progressive disease
+NET-039,73,Female,Hywel Dda UHB,2019-08-10,GI (colorectal),G1,2.6,IV,Non-functional,CT + DOTATATE,Yes,SSA (Lanreotide),2019-08-29,2021-11-29,1248,Yes,Yes,Stable disease
+NET-040,81,Male,Cardiff and Vale UHB,2020-02-08,GI (small intestine),G2,12.8,II,Non-functional,CT,Yes,SSA (Octreotide),2020-04-07,2022-06-02,1063,Yes,No,Stable disease
+NET-041,32,Male,Aneurin Bevan UHB,2019-09-06,Pancreatic,G1,2.2,I,Functional,MRI,Yes,Surgery,2019-10-16,2021-10-28,1280,Yes,Yes,Stable disease
+NET-042,66,Female,Cardiff and Vale UHB,2023-07-08,Pancreatic,G3,22.1,II,Non-functional,CT,Yes,Watch & Wait,2023-10-17,2024-01-27,459,Yes,Yes,Stable disease
+NET-043,80,Male,Cardiff and Vale UHB,2022-10-21,GI (small intestine),G2,6.9,II,Functional,CT + DOTATATE,Yes,Surgery,2022-12-05,2024-09-24,218,Yes,Yes,Complete remission
+NET-044,36,Female,Cardiff and Vale UHB,2020-03-23,GI (colorectal),G1,1.2,II,Functional,CT + DOTATATE,Yes,Surgery,2020-06-30,2020-07-17,1748,Yes,Yes,Stable disease
+NET-045,50,Female,Aneurin Bevan UHB,2021-10-15,GI (small intestine),G1,0.7,II,Functional,DOTATATE PET-CT,Yes,Surgery,2021-11-11,2022-08-31,973,Yes,Yes,Lost to follow-up
+NET-046,38,Male,Hywel Dda UHB,2021-02-23,GI (small intestine),G3,30.5,IV,Non-functional,CT + DOTATATE,Yes,Chemotherapy (EP),2021-04-23,2022-09-03,970,Yes,Yes,Deceased
+NET-047,68,Male,Hywel Dda UHB,2021-02-18,Other,G1,0.7,II,Non-functional,DOTATATE PET-CT,Yes,Watch & Wait,2021-06-11,2023-01-28,823,Yes,Yes,Stable disease
+NET-048,47,Male,Swansea Bay UHB,2024-01-12,Pancreatic,G2,7.7,III,Non-functional,DOTATATE PET-CT,Yes,SSA (Lanreotide),2023-12-21,2025-04-30,0,Yes,Yes,Progressive disease
+NET-049,33,Male,Aneurin Bevan UHB,2020-07-28,GI (small intestine),G2,13.7,IV,Non-functional,CT,Yes,SSA (Octreotide),2020-10-02,2022-05-23,1073,No,Yes,Lost to follow-up
+NET-050,54,Male,Cardiff and Vale UHB,2023-09-25,Pancreatic,G3,36.4,III,Non-functional,DOTATATE PET-CT,Yes,Immunotherapy,2023-12-27,2024-10-02,210,Yes,No,Stable disease
+NET-051,43,Female,Cardiff and Vale UHB,2021-01-21,Lung,G3,36.7,IV,Functional,CT,Yes,Chemotherapy (EP),2021-05-10,2021-05-26,1435,Yes,No,Deceased
+NET-052,79,Male,Betsi Cadwaladr UHB,2022-02-14,GI (small intestine),G2,6.5,II,Non-functional,CT + DOTATATE,Yes,Surgery,2022-03-19,2024-07-01,303,Yes,No,Complete remission
+NET-053,38,Male,Cardiff and Vale UHB,2024-03-09,GI (colorectal),G1,1.1,II,Non-functional,DOTATATE PET-CT,Yes,SSA (Octreotide),2024-04-22,2025-04-30,0,Yes,Yes,Complete remission
+NET-054,55,Male,Cardiff and Vale UHB,2021-10-20,GI (small intestine),G1,2.7,I,Functional,DOTATATE PET-CT,No,Watch & Wait,2021-11-23,2022-07-17,1018,Yes,Yes,Lost to follow-up
+NET-055,31,Female,Cardiff and Vale UHB,2019-11-05,GI (small intestine),G2,14.0,II,Non-functional,CT,Yes,Surgery,2020-02-29,2021-10-23,1285,Yes,Yes,Stable disease
+NET-056,49,Male,Cardiff and Vale UHB,2023-12-21,Pancreatic,G2,13.3,II,Non-functional,MRI,Yes,SSA (Octreotide),2024-04-16,2024-12-02,149,Yes,Yes,Stable disease
+NET-057,57,Male,Cardiff and Vale UHB,2020-02-06,Pancreatic,G2,5.9,II,Non-functional,MRI,Yes,Watch & Wait,2020-03-13,2020-10-23,1650,No,Yes,Lost to follow-up
+NET-058,76,Male,Cwm Taf Morgannwg UHB,2019-07-27,GI (colorectal),G3,52.8,I,Non-functional,MRI,Yes,Surgery,2019-10-01,2021-11-28,1249,Yes,Yes,Lost to follow-up
+NET-059,36,Female,Swansea Bay UHB,2019-03-02,Lung,G1,0.9,II,Non-functional,CT,Yes,Surgery,2019-03-19,2019-10-21,2018,No,Yes,Lost to follow-up
+NET-060,73,Male,Betsi Cadwaladr UHB,2020-01-18,Other,G1,1.4,III,Non-functional,CT + DOTATATE,Yes,PRRT,2020-02-23,2020-07-16,1749,Yes,Yes,Stable disease
+NET-061,37,Female,Hywel Dda UHB,2021-08-26,Pancreatic,G1,2.9,II,Non-functional,DOTATATE PET-CT,Yes,Watch & Wait,2021-12-12,2021-10-20,1288,Yes,Yes,Stable disease
+NET-062,76,Female,Swansea Bay UHB,2020-11-12,Pancreatic,G2,13.8,III,Non-functional,MRI,Yes,SSA (Lanreotide),2021-01-07,2021-01-28,1553,Yes,Yes,Lost to follow-up
+NET-063,64,Male,Cardiff and Vale UHB,2023-07-23,Lung,G1,1.8,III,Functional,MRI,Yes,Surgery,2023-11-14,2024-04-28,367,Yes,Yes,Stable disease
+NET-064,43,Female,Swansea Bay UHB,2024-06-12,GI (small intestine),G1,2.1,IV,Non-functional,Octreoscan,Yes,PRRT,2024-08-17,2025-04-30,0,Yes,No,Stable disease
+NET-065,46,Male,Cwm Taf Morgannwg UHB,2024-05-25,Pancreatic,G1,2.5,I,Non-functional,DOTATATE PET-CT,Yes,Surgery,2024-09-18,2025-04-30,0,Yes,Yes,Stable disease
+NET-066,65,Female,Cardiff and Vale UHB,2021-05-25,GI (small intestine),G2,16.1,IV,Functional,DOTATATE PET-CT,Yes,SSA (Lanreotide),2021-09-01,2023-11-11,536,No,Yes,Stable disease
+NET-067,79,Female,Cwm Taf Morgannwg UHB,2023-07-01,GI (small intestine),G2,6.9,IV,Non-functional,CT + DOTATATE,No,SSA (Octreotide),2023-10-17,2025-04-30,0,Yes,Yes,Stable disease
+NET-068,69,Female,Swansea Bay UHB,2019-08-29,Other,G2,3.5,I,Non-functional,Octreoscan,Yes,Watch & Wait,2019-12-24,2019-12-11,1967,Yes,No,Lost to follow-up
+NET-069,33,Male,Cwm Taf Morgannwg UHB,2020-11-05,Other,G3,34.2,IV,Non-functional,CT + DOTATATE,Yes,Chemotherapy (EP),2020-12-20,2022-03-16,1141,Yes,Yes,Progressive disease
+NET-070,31,Female,Swansea Bay UHB,2023-04-02,Lung,G1,1.1,IV,Functional,CT + DOTATATE,Yes,PRRT,2023-05-20,2024-06-29,305,Yes,Yes,Lost to follow-up
+NET-071,35,Male,Cardiff and Vale UHB,2019-01-09,Pancreatic,G1,1.0,I,Non-functional,CT,Yes,Watch & Wait,2019-02-12,2020-11-13,1629,Yes,Yes,Lost to follow-up
+NET-072,71,Male,Betsi Cadwaladr UHB,2023-05-19,GI (small intestine),G2,18.9,II,Non-functional,CT + DOTATATE,No,SSA (Octreotide),2023-09-10,2025-01-27,93,Yes,Yes,Stable disease
+NET-073,33,Male,Aneurin Bevan UHB,2021-12-22,GI (small intestine),G1,2.6,IV,Functional,CT,Yes,SSA (Lanreotide),2022-04-04,2022-08-08,996,Yes,Yes,Stable disease
+NET-074,58,Female,Cardiff and Vale UHB,2024-02-07,GI (small intestine),G3,34.2,IV,Functional,CT + DOTATATE,No,Immunotherapy,2024-03-05,2025-04-30,0,Yes,Yes,Progressive disease
+NET-075,47,Female,Hywel Dda UHB,2022-03-14,Pancreatic,G1,2.1,II,Non-functional,MRI,Yes,Surgery,2022-05-15,2024-03-26,400,Yes,No,Complete remission
+NET-076,55,Male,Cwm Taf Morgannwg UHB,2023-09-29,Lung,G3,37.8,II,Functional,CT + DOTATATE,No,Watch & Wait,2023-10-17,2024-11-25,156,Yes,Yes,Complete remission
+NET-077,73,Male,Betsi Cadwaladr UHB,2024-06-16,GI (colorectal),G1,2.7,III,Non-functional,CT + DOTATATE,Yes,SSA (Octreotide),2024-08-29,2025-04-30,0,Yes,Yes,Progressive disease
+NET-078,63,Male,Hywel Dda UHB,2020-09-26,GI (small intestine),G2,10.8,III,Non-functional,CT + DOTATATE,Yes,SSA (Lanreotide),2020-11-07,2021-12-09,1238,Yes,No,Stable disease
+NET-079,39,Female,Swansea Bay UHB,2021-02-16,Other,G1,1.1,IV,Functional,DOTATATE PET-CT,Yes,PRRT,2021-03-27,2021-11-22,1255,No,Yes,Stable disease
+NET-080,65,Male,Cardiff and Vale UHB,2022-04-30,Lung,G3,31.1,III,Non-functional,MRI,Yes,Chemotherapy (EP),2022-08-26,2022-10-28,915,Yes,Yes,Stable disease
+NET-081,43,Female,Cardiff and Vale UHB,2021-06-10,GI (colorectal),G1,1.8,III,Non-functional,CT,Yes,SSA (Octreotide),2021-08-21,2023-05-12,719,Yes,Yes,Lost to follow-up
+NET-082,60,Male,Cwm Taf Morgannwg UHB,2019-08-28,GI (colorectal),G2,7.4,IV,Non-functional,Octreoscan,Yes,PRRT,2019-10-25,2021-08-31,1338,Yes,Yes,Stable disease
+NET-083,77,Female,Aneurin Bevan UHB,2019-09-07,Pancreatic,G3,46.3,I,Non-functional,CT,Yes,Watch & Wait,2019-10-30,2019-10-12,2027,Yes,No,Stable disease
+NET-084,44,Male,Cardiff and Vale UHB,2022-07-08,GI (small intestine),G1,2.7,II,Non-functional,DOTATATE PET-CT,Yes,Watch & Wait,2022-06-08,2024-09-13,229,No,Yes,Complete remission
+NET-085,37,Male,Cardiff and Vale UHB,2019-08-23,Pancreatic,G2,9.7,IV,Functional,MRI,Yes,PRRT,2019-10-05,2021-11-18,1259,Yes,No,Stable disease
+NET-086,43,Male,Hywel Dda UHB,2019-07-25,Lung,G2,6.7,IV,Non-functional,CT + DOTATATE,Yes,SSA (Lanreotide),2019-09-05,2019-12-11,1967,Yes,Yes,Stable disease
+NET-087,52,Female,NHS England,2024-05-06,GI (small intestine),G1,2.9,III,Non-functional,DOTATATE PET-CT,Yes,SSA (Octreotide),2024-05-23,2025-04-30,0,Yes,Yes,Progressive disease
+NET-088,69,Female,Cwm Taf Morgannwg UHB,2024-08-21,GI (small intestine),G2,11.6,III,Functional,CT + DOTATATE,Yes,SSA (Octreotide),2024-11-27,2025-04-30,0,Yes,Yes,Progressive disease
+NET-089,50,Male,Cardiff and Vale UHB,2024-12-15,GI (small intestine),G2,4.5,I,Non-functional,CT,Yes,Surgery,2025-01-22,2025-04-30,0,No,Yes,Stable disease
+NET-090,45,Female,Cardiff and Vale UHB,2020-10-06,GI (small intestine),G3,22.1,III,Functional,CT + DOTATATE,Yes,Immunotherapy,2020-12-10,2021-05-04,1457,Yes,Yes,Stable disease
+NET-091,74,Female,Cardiff and Vale UHB,2019-08-21,Other,G1,0.8,III,Non-functional,CT + DOTATATE,Yes,SSA (Lanreotide),2019-10-16,2021-12-21,1226,Yes,No,Lost to follow-up
+NET-092,47,Female,Betsi Cadwaladr UHB,2024-09-11,Lung,G1,2.0,II,Functional,Octreoscan,Yes,Surgery,2024-10-30,2025-04-30,0,Yes,Yes,Complete remission
+NET-093,76,Female,Cardiff and Vale UHB,2019-11-25,Pancreatic,G3,55.6,II,Non-functional,DOTATATE PET-CT,Yes,Surgery,2019-12-17,2021-06-07,1423,No,No,Stable disease
+NET-094,53,Male,Cwm Taf Morgannwg UHB,2021-01-31,GI (small intestine),G2,10.1,III,Non-functional,DOTATATE PET-CT,Yes,Surgery,2021-05-23,2022-06-20,1045,Yes,Yes,Lost to follow-up
+NET-095,55,Male,Cardiff and Vale UHB,2019-10-08,Pancreatic,G2,4.1,I,Functional,CT,Yes,Surgery,2019-11-26,2019-12-28,1950,No,No,Lost to follow-up
+NET-096,54,Female,Cwm Taf Morgannwg UHB,2019-10-06,Pancreatic,G2,9.4,III,Functional,DOTATATE PET-CT,Yes,SSA (Lanreotide),2019-12-03,2021-05-28,1433,Yes,Yes,Stable disease
+NET-097,74,Female,Aneurin Bevan UHB,2021-08-21,GI (small intestine),G1,2.9,II,Functional,MRI,Yes,Surgery,2021-11-25,2022-06-02,1063,Yes,Yes,Stable disease
+NET-098,70,Female,Hywel Dda UHB,2023-07-12,Pancreatic,G1,1.8,III,Non-functional,CT,Yes,PRRT,2023-09-29,2025-04-30,0,Yes,No,Progressive disease
+NET-099,58,Male,Cardiff and Vale UHB,2020-05-06,Pancreatic,G2,19.4,I,Functional,MRI,No,Surgery,2020-07-10,2020-10-07,1666,Yes,Yes,Stable disease
+NET-100,44,Male,Cardiff and Vale UHB,2021-10-05,GI (colorectal),G1,2.6,IV,Non-functional,CT,Yes,Everolimus,2022-01-13,2023-02-14,806,Yes,Yes,Lost to follow-up
+NET-101,74,Female,Cardiff and Vale UHB,2019-06-12,GI (colorectal),G2,3.2,IV,Non-functional,CT,Yes,Sunitinib,2019-09-02,2019-11-25,1983,Yes,Yes,Lost to follow-up
+NET-102,30,Female,Betsi Cadwaladr UHB,2019-12-02,GI (small intestine),G1,2.2,IV,Functional,CT,Yes,PRRT,2020-01-27,2022-03-31,1126,Yes,Yes,Lost to follow-up
+NET-103,54,Female,Hywel Dda UHB,2023-09-14,Pancreatic,G3,50.7,IV,Non-functional,CT + DOTATATE,Yes,Chemotherapy (FOLFOX),2023-10-01,2025-01-31,89,Yes,No,Stable disease
+NET-104,36,Female,Cwm Taf Morgannwg UHB,2024-11-11,GI (colorectal),G3,44.2,III,Non-functional,DOTATATE PET-CT,Yes,Immunotherapy,2024-12-09,2025-04-30,0,Yes,Yes,Progressive disease
+NET-105,38,Female,Cwm Taf Morgannwg UHB,2022-07-19,Pancreatic,G2,7.5,I,Functional,CT + DOTATATE,No,Watch & Wait,2022-09-04,2024-02-12,443,Yes,No,Complete remission
+NET-106,53,Male,Aneurin Bevan UHB,2021-12-04,Other,G1,2.0,III,Functional,Octreoscan,Yes,SSA (Octreotide),2022-01-09,2023-07-29,641,No,Yes,Stable disease
+NET-107,30,Male,Cardiff and Vale UHB,2021-04-16,GI (colorectal),G1,0.8,IV,Functional,MRI,Yes,PRRT,2021-07-13,2023-01-15,836,No,Yes,Stable disease
+NET-108,73,Female,Betsi Cadwaladr UHB,2022-07-10,GI (small intestine),G2,10.3,IV,Non-functional,DOTATATE PET-CT,No,PRRT,2022-08-26,2023-06-29,671,No,Yes,Stable disease
+NET-109,37,Female,Swansea Bay UHB,2021-09-04,GI (small intestine),G2,10.7,III,Non-functional,Octreoscan,Yes,SSA (Lanreotide),2021-09-22,2023-11-16,531,No,Yes,Stable disease
+NET-110,53,Male,Swansea Bay UHB,2021-12-23,GI (colorectal),G1,2.8,II,Non-functional,CT,Yes,Watch & Wait,2022-01-19,2023-04-20,741,Yes,Yes,Lost to follow-up
+NET-111,40,Male,Cwm Taf Morgannwg UHB,2023-06-10,GI (small intestine),G3,59.4,II,Non-functional,DOTATATE PET-CT,Yes,SSA (Octreotide),2023-09-08,2025-03-28,33,Yes,Yes,Stable disease
+NET-112,80,Female,Cardiff and Vale UHB,2020-06-20,GI (colorectal),G2,7.5,III,Non-functional,CT,Yes,Surgery,2020-08-28,2022-11-01,911,Yes,Yes,Stable disease
+NET-113,46,Male,Cardiff and Vale UHB,2022-05-13,Other,G3,42.5,IV,Non-functional,DOTATATE PET-CT,No,Chemotherapy (EP),2022-07-10,2024-06-17,317,Yes,Yes,Stable disease
+NET-114,37,Male,Aneurin Bevan UHB,2024-02-16,GI (colorectal),G2,6.0,IV,Non-functional,DOTATATE PET-CT,No,SSA (Octreotide),2024-06-02,2025-04-30,0,Yes,Yes,Progressive disease
+NET-115,64,Female,Cardiff and Vale UHB,2022-07-19,Pancreatic,G2,18.4,III,Functional,CT,Yes,Surgery,2022-11-10,2023-10-28,550,Yes,Yes,Stable disease
+NET-116,64,Female,Cwm Taf Morgannwg UHB,2019-10-25,GI (colorectal),G1,2.6,IV,Functional,CT,Yes,Everolimus,2019-12-18,2022-03-23,1134,Yes,No,Stable disease
+NET-117,62,Female,Cardiff and Vale UHB,2019-02-08,Pancreatic,G3,33.4,IV,Functional,DOTATATE PET-CT,Yes,Chemotherapy (EP),2019-04-18,2020-09-21,1682,Yes,Yes,Progressive disease
+NET-118,34,Male,Swansea Bay UHB,2024-02-21,Pancreatic,G3,48.8,II,Functional,Octreoscan,Yes,SSA (Octreotide),2024-05-22,2025-04-30,0,Yes,Yes,Stable disease
+NET-119,71,Female,Cardiff and Vale UHB,2020-02-14,Other,G1,2.0,I,Non-functional,CT,No,SSA (Octreotide),2020-05-03,2020-08-24,1710,Yes,Yes,Stable disease
+NET-120,68,Male,Swansea Bay UHB,2019-10-28,Pancreatic,G1,0.9,II,Non-functional,CT + DOTATATE,Yes,Surgery,2019-10-20,2021-12-27,1220,Yes,Yes,Stable disease
+NET-121,70,Male,Aneurin Bevan UHB,2021-05-23,Other,G1,2.3,II,Functional,CT,Yes,Watch & Wait,2021-07-25,2022-10-21,922,Yes,Yes,Lost to follow-up
+NET-122,57,Female,Cardiff and Vale UHB,2024-09-03,Other,G2,12.1,II,Functional,DOTATATE PET-CT,Yes,Surgery,2024-11-29,2025-04-30,0,Yes,Yes,Complete remission
+NET-123,36,Female,Cwm Taf Morgannwg UHB,2021-12-22,GI (small intestine),G3,55.0,II,Non-functional,CT + DOTATATE,Yes,Surgery,2022-01-29,2022-10-13,930,Yes,Yes,Lost to follow-up
+NET-124,38,Female,Swansea Bay UHB,2020-06-26,GI (small intestine),G1,1.8,II,Non-functional,CT,Yes,Surgery,2020-08-11,2022-09-03,970,Yes,Yes,Stable disease
+NET-125,37,Female,Aneurin Bevan UHB,2022-11-30,GI (small intestine),G2,3.0,II,Functional,CT,Yes,Watch & Wait,2022-12-19,2023-09-09,599,No,Yes,Stable disease
+NET-126,41,Female,Betsi Cadwaladr UHB,2019-10-09,GI (small intestine),G1,1.3,IV,Non-functional,CT,Yes,SSA (Octreotide),2020-01-21,2022-03-17,1140,No,No,Lost to follow-up
+NET-127,63,Male,Aneurin Bevan UHB,2021-09-27,GI (small intestine),G3,20.9,I,Functional,MRI,Yes,Surgery,2021-12-05,2023-08-10,629,Yes,Yes,Stable disease
+NET-128,62,Male,Cardiff and Vale UHB,2023-02-22,Lung,G3,61.8,III,Functional,CT,No,Chemotherapy (EP),2023-03-08,2024-01-01,485,Yes,Yes,Deceased
+NET-129,77,Male,Cardiff and Vale UHB,2022-03-13,GI (small intestine),G2,17.9,III,Non-functional,DOTATATE PET-CT,Yes,SSA (Lanreotide),2022-06-01,2024-06-04,330,Yes,Yes,Progressive disease
+NET-130,52,Male,Cardiff and Vale UHB,2020-10-08,Pancreatic,G2,17.1,IV,Non-functional,CT,Yes,Sunitinib,2021-02-02,2023-01-12,839,Yes,Yes,Stable disease
+NET-131,53,Female,Cwm Taf Morgannwg UHB,2023-11-30,Other,G1,1.2,I,Functional,DOTATATE PET-CT,Yes,Surgery,2024-02-20,2025-04-30,0,Yes,Yes,Stable disease
+NET-132,66,Male,Cardiff and Vale UHB,2022-05-24,GI (small intestine),G1,0.6,III,Non-functional,CT + DOTATATE,Yes,SSA (Octreotide),2022-09-02,2023-11-01,546,Yes,No,Stable disease
+NET-133,64,Female,Cwm Taf Morgannwg UHB,2024-12-06,Lung,G1,2.6,IV,Non-functional,CT + DOTATATE,Yes,PRRT,2025-03-22,2025-04-30,0,Yes,Yes,Stable disease
+NET-134,73,Female,Cwm Taf Morgannwg UHB,2019-02-02,GI (small intestine),G2,19.0,IV,Non-functional,DOTATATE PET-CT,Yes,SSA (Lanreotide),2019-05-21,2019-11-03,2005,Yes,Yes,Stable disease
+NET-135,69,Female,Swansea Bay UHB,2022-05-11,GI (small intestine),G2,4.4,IV,Non-functional,MRI,Yes,SSA (Octreotide),2022-08-27,2023-03-18,774,Yes,Yes,Stable disease
+NET-136,51,Male,Aneurin Bevan UHB,2020-02-29,Lung,G3,41.9,II,Non-functional,DOTATATE PET-CT,Yes,Surgery,2020-06-07,2021-06-23,1407,Yes,Yes,Stable disease
+NET-137,56,Female,Cardiff and Vale UHB,2020-07-04,GI (colorectal),G3,23.1,II,Non-functional,DOTATATE PET-CT,Yes,Surgery,2020-08-12,2020-10-21,1652,Yes,Yes,Stable disease
+NET-138,64,Male,Cardiff and Vale UHB,2021-12-19,Other,G2,15.9,IV,Non-functional,Octreoscan,Yes,SSA (Octreotide),2022-02-17,2024-01-18,468,Yes,Yes,Deceased
+NET-139,30,Male,Aneurin Bevan UHB,2020-04-17,Lung,G2,15.9,IV,Functional,CT,No,SSA (Lanreotide),2020-06-25,2021-03-05,1517,Yes,Yes,Lost to follow-up
+NET-140,64,Female,Cwm Taf Morgannwg UHB,2020-03-14,Lung,G3,25.8,IV,Functional,CT + DOTATATE,Yes,Chemotherapy (EP),2020-04-05,2020-12-09,1603,Yes,Yes,Deceased
+NET-141,66,Male,Aneurin Bevan UHB,2020-09-28,GI (small intestine),G2,11.0,IV,Functional,Octreoscan,Yes,Sunitinib,2021-01-05,2021-08-02,1367,Yes,Yes,Lost to follow-up
+NET-142,76,Male,Swansea Bay UHB,2022-01-20,GI (small intestine),G1,1.8,II,Non-functional,CT,Yes,Surgery,2022-03-17,2023-01-28,823,Yes,Yes,Lost to follow-up
+NET-143,43,Female,Cardiff and Vale UHB,2022-02-28,Lung,G2,7.5,IV,Functional,MRI,Yes,PRRT,2022-06-01,2023-02-20,800,Yes,Yes,Stable disease
+NET-144,32,Male,Hywel Dda UHB,2021-05-12,Lung,G1,2.6,II,Non-functional,Octreoscan,Yes,Watch & Wait,2021-07-05,2022-12-16,866,Yes,Yes,Stable disease
+NET-145,30,Female,Hywel Dda UHB,2022-11-05,Other,G3,39.0,III,Non-functional,CT + DOTATATE,Yes,Chemotherapy (EP),2023-02-11,2023-02-25,795,Yes,Yes,Lost to follow-up
+NET-146,34,Female,Aneurin Bevan UHB,2021-04-13,Pancreatic,G2,6.6,III,Functional,DOTATATE PET-CT,No,PRRT,2021-05-12,2021-10-01,1307,Yes,Yes,Stable disease
+NET-147,55,Female,Cardiff and Vale UHB,2021-12-17,Pancreatic,G1,1.8,III,Non-functional,DOTATATE PET-CT,Yes,SSA (Octreotide),2022-04-02,2022-06-19,1046,Yes,Yes,Stable disease
+NET-148,43,Male,Cwm Taf Morgannwg UHB,2024-09-01,Lung,G2,15.3,II,Non-functional,CT,Yes,SSA (Octreotide),2024-10-23,2025-04-30,0,Yes,Yes,Complete remission
+NET-149,68,Male,Swansea Bay UHB,2024-06-24,Pancreatic,G2,6.4,I,Non-functional,Octreoscan,Yes,Surgery,2024-09-10,2025-04-30,0,Yes,No,Stable disease
+NET-150,56,Female,Cardiff and Vale UHB,2021-10-25,Other,G1,1.2,IV,Functional,Octreoscan,Yes,SSA (Lanreotide),2021-12-17,2023-11-04,543,Yes,Yes,Stable disease

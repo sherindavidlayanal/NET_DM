@@ -1,0 +1,151 @@
+patient_id,tumour_site,tumour_grade,stage,enets_fields_complete,mdt_discussed,chromogranin_a_measured,outcome,has_high_severity_query,enets_submission_status
+NET-001,Pancreatic,G3,I,No,No,Yes,Complete remission,True,Not Ready
+NET-002,Other,G1,IV,Yes,Yes,No,Stable disease,False,Ready
+NET-003,Other,G2,III,No,No,No,Deceased,True,Not Ready
+NET-004,Other,G2,IV,No,Yes,Yes,Stable disease,True,Not Ready
+NET-005,GI (small intestine),G1,III,Yes,Yes,Yes,Stable disease,False,Ready
+NET-006,Pancreatic,G3,IV,No,Yes,Yes,Progressive disease,True,Not Ready
+NET-007,Other,G1,IV,Yes,Yes,No,Lost to follow-up,False,Ready
+NET-008,Pancreatic,G3,IV,Yes,Yes,Yes,Progressive disease,False,Ready
+NET-009,GI (small intestine),G1,IV,Yes,Yes,Yes,Stable disease,False,Ready
+NET-010,GI (colorectal),G2,III,Yes,Yes,No,Stable disease,False,Ready
+NET-011,Other,G1,II,Yes,Yes,Yes,Stable disease,False,Ready
+NET-012,Lung,G1,I,No,Yes,Yes,Stable disease,True,Not Ready
+NET-013,GI (colorectal),G3,IV,No,Yes,Yes,Progressive disease,True,Not Ready
+NET-014,GI (small intestine),G1,IV,Yes,Yes,Yes,Stable disease,False,Ready
+NET-015,GI (colorectal),G1,IV,No,Yes,Yes,Stable disease,True,Not Ready
+NET-016,Other,G3,II,Yes,No,Yes,Stable disease,True,Not Ready
+NET-017,GI (small intestine),G3,II,Yes,No,Yes,Lost to follow-up,False,Ready
+NET-018,Pancreatic,G2,I,Yes,Yes,Yes,Stable disease,False,Ready
+NET-019,Other,G2,III,Yes,Yes,No,Lost to follow-up,False,Ready
+NET-020,Lung,G2,IV,No,No,Yes,Lost to follow-up,True,Not Ready
+NET-021,Lung,G1,III,No,Yes,No,Progressive disease,True,Not Ready
+NET-022,Lung,G1,III,Yes,Yes,Yes,Stable disease,False,Ready
+NET-023,Pancreatic,G2,IV,Yes,No,No,Lost to follow-up,False,Ready
+NET-024,GI (small intestine),G2,III,Yes,Yes,Yes,Stable disease,False,Ready
+NET-025,Lung,G2,III,Yes,Yes,Yes,Stable disease,False,Ready
+NET-026,Lung,G2,IV,No,Yes,Yes,Stable disease,True,Not Ready
+NET-027,Other,G1,III,Yes,No,No,Deceased,False,Ready
+NET-028,Other,G1,IV,Yes,No,Yes,Stable disease,False,Ready
+NET-029,Pancreatic,G1,IV,Yes,No,Yes,Deceased,False,Ready
+NET-030,Pancreatic,G2,IV,Yes,Yes,Yes,Stable disease,False,Ready
+NET-031,Lung,G2,II,Yes,Yes,Yes,Stable disease,False,Ready
+NET-032,GI (colorectal),G2,IV,Yes,Yes,Yes,Stable disease,False,Ready
+NET-033,Lung,G1,III,Yes,Yes,Yes,Lost to follow-up,False,Ready
+NET-034,Lung,G1,II,Yes,Yes,Yes,Stable disease,False,Ready
+NET-035,Other,G1,III,No,Yes,Yes,Stable disease,True,Not Ready
+NET-036,Pancreatic,G2,IV,Yes,Yes,Yes,Lost to follow-up,False,Ready
+NET-037,Pancreatic,G2,III,Yes,Yes,Yes,Stable disease,False,Ready
+NET-038,GI (small intestine),G1,III,No,Yes,Yes,Progressive disease,True,Not Ready
+NET-039,GI (colorectal),G1,IV,Yes,Yes,Yes,Stable disease,False,Ready
+NET-040,GI (small intestine),G2,II,No,Yes,Yes,Stable disease,True,Not Ready
+NET-041,Pancreatic,G1,I,Yes,Yes,Yes,Stable disease,False,Ready
+NET-042,Pancreatic,G3,II,Yes,Yes,Yes,Stable disease,True,Not Ready
+NET-043,GI (small intestine),G2,II,Yes,Yes,Yes,Complete remission,False,Ready
+NET-044,GI (colorectal),G1,II,Yes,Yes,Yes,Stable disease,False,Ready
+NET-045,GI (small intestine),G1,II,Yes,Yes,Yes,Lost to follow-up,False,Ready
+NET-046,GI (small intestine),G3,IV,Yes,Yes,Yes,Deceased,False,Ready
+NET-047,Other,G1,II,Yes,Yes,Yes,Stable disease,False,Ready
+NET-048,Pancreatic,G2,III,Yes,Yes,Yes,Progressive disease,True,Not Ready
+NET-049,GI (small intestine),G2,IV,Yes,No,Yes,Lost to follow-up,False,Ready
+NET-050,Pancreatic,G3,III,No,Yes,Yes,Stable disease,True,Not Ready
+NET-051,Lung,G3,IV,No,Yes,Yes,Deceased,True,Not Ready
+NET-052,GI (small intestine),G2,II,No,Yes,Yes,Complete remission,True,Not Ready
+NET-053,GI (colorectal),G1,II,Yes,Yes,Yes,Complete remission,False,Ready
+NET-054,GI (small intestine),G1,I,Yes,Yes,No,Lost to follow-up,False,Ready
+NET-055,GI (small intestine),G2,II,Yes,Yes,Yes,Stable disease,False,Ready
+NET-056,Pancreatic,G2,II,Yes,Yes,Yes,Stable disease,False,Ready
+NET-057,Pancreatic,G2,II,Yes,No,Yes,Lost to follow-up,False,Ready
+NET-058,GI (colorectal),G3,I,Yes,Yes,Yes,Lost to follow-up,False,Ready
+NET-059,Lung,G1,II,Yes,No,Yes,Lost to follow-up,False,Ready
+NET-060,Other,G1,III,Yes,Yes,Yes,Stable disease,False,Ready
+NET-061,Pancreatic,G1,II,Yes,Yes,Yes,Stable disease,False,Ready
+NET-062,Pancreatic,G2,III,Yes,Yes,Yes,Lost to follow-up,False,Ready
+NET-063,Lung,G1,III,Yes,Yes,Yes,Stable disease,False,Ready
+NET-064,GI (small intestine),G1,IV,No,Yes,Yes,Stable disease,True,Not Ready
+NET-065,Pancreatic,G1,I,Yes,Yes,Yes,Stable disease,False,Ready
+NET-066,GI (small intestine),G2,IV,Yes,No,Yes,Stable disease,False,Ready
+NET-067,GI (small intestine),G2,IV,Yes,Yes,No,Stable disease,False,Ready
+NET-068,Other,G2,I,No,Yes,Yes,Lost to follow-up,True,Not Ready
+NET-069,Other,G3,IV,Yes,Yes,Yes,Progressive disease,False,Ready
+NET-070,Lung,G1,IV,Yes,Yes,Yes,Lost to follow-up,False,Ready
+NET-071,Pancreatic,G1,I,Yes,Yes,Yes,Lost to follow-up,False,Ready
+NET-072,GI (small intestine),G2,II,Yes,Yes,No,Stable disease,False,Ready
+NET-073,GI (small intestine),G1,IV,Yes,Yes,Yes,Stable disease,False,Ready
+NET-074,GI (small intestine),G3,IV,Yes,Yes,No,Progressive disease,False,Ready
+NET-075,Pancreatic,G1,II,No,Yes,Yes,Complete remission,True,Not Ready
+NET-076,Lung,G3,II,Yes,Yes,No,Complete remission,True,Not Ready
+NET-077,GI (colorectal),G1,III,Yes,Yes,Yes,Progressive disease,False,Ready
+NET-078,GI (small intestine),G2,III,No,Yes,Yes,Stable disease,True,Not Ready
+NET-079,Other,G1,IV,Yes,No,Yes,Stable disease,False,Ready
+NET-080,Lung,G3,III,Yes,Yes,Yes,Stable disease,False,Ready
+NET-081,GI (colorectal),G1,III,Yes,Yes,Yes,Lost to follow-up,False,Ready
+NET-082,GI (colorectal),G2,IV,Yes,Yes,Yes,Stable disease,False,Ready
+NET-083,Pancreatic,G3,I,No,Yes,Yes,Stable disease,True,Not Ready
+NET-084,GI (small intestine),G1,II,Yes,No,Yes,Complete remission,True,Not Ready
+NET-085,Pancreatic,G2,IV,No,Yes,Yes,Stable disease,True,Not Ready
+NET-086,Lung,G2,IV,Yes,Yes,Yes,Stable disease,False,Ready
+NET-087,GI (small intestine),G1,III,Yes,Yes,Yes,Progressive disease,False,Ready
+NET-088,GI (small intestine),G2,III,Yes,Yes,Yes,Progressive disease,False,Ready
+NET-089,GI (small intestine),G2,I,Yes,No,Yes,Stable disease,False,Ready
+NET-090,GI (small intestine),G3,III,Yes,Yes,Yes,Stable disease,False,Ready
+NET-091,Other,G1,III,No,Yes,Yes,Lost to follow-up,True,Not Ready
+NET-092,Lung,G1,II,Yes,Yes,Yes,Complete remission,False,Ready
+NET-093,Pancreatic,G3,II,No,No,Yes,Stable disease,True,Not Ready
+NET-094,GI (small intestine),G2,III,Yes,Yes,Yes,Lost to follow-up,False,Ready
+NET-095,Pancreatic,G2,I,No,No,Yes,Lost to follow-up,True,Not Ready
+NET-096,Pancreatic,G2,III,Yes,Yes,Yes,Stable disease,False,Ready
+NET-097,GI (small intestine),G1,II,Yes,Yes,Yes,Stable disease,False,Ready
+NET-098,Pancreatic,G1,III,No,Yes,Yes,Progressive disease,True,Not Ready
+NET-099,Pancreatic,G2,I,Yes,Yes,No,Stable disease,False,Ready
+NET-100,GI (colorectal),G1,IV,Yes,Yes,Yes,Lost to follow-up,False,Ready
+NET-101,GI (colorectal),G2,IV,Yes,Yes,Yes,Lost to follow-up,False,Ready
+NET-102,GI (small intestine),G1,IV,Yes,Yes,Yes,Lost to follow-up,False,Ready
+NET-103,Pancreatic,G3,IV,No,Yes,Yes,Stable disease,True,Not Ready
+NET-104,GI (colorectal),G3,III,Yes,Yes,Yes,Progressive disease,False,Ready
+NET-105,Pancreatic,G2,I,No,Yes,No,Complete remission,True,Not Ready
+NET-106,Other,G1,III,Yes,No,Yes,Stable disease,False,Ready
+NET-107,GI (colorectal),G1,IV,Yes,No,Yes,Stable disease,False,Ready
+NET-108,GI (small intestine),G2,IV,Yes,No,No,Stable disease,False,Ready
+NET-109,GI (small intestine),G2,III,Yes,No,Yes,Stable disease,False,Ready
+NET-110,GI (colorectal),G1,II,Yes,Yes,Yes,Lost to follow-up,False,Ready
+NET-111,GI (small intestine),G3,II,Yes,Yes,Yes,Stable disease,False,Ready
+NET-112,GI (colorectal),G2,III,Yes,Yes,Yes,Stable disease,False,Ready
+NET-113,Other,G3,IV,Yes,Yes,No,Stable disease,False,Ready
+NET-114,GI (colorectal),G2,IV,Yes,Yes,No,Progressive disease,False,Ready
+NET-115,Pancreatic,G2,III,Yes,Yes,Yes,Stable disease,False,Ready
+NET-116,GI (colorectal),G1,IV,No,Yes,Yes,Stable disease,True,Not Ready
+NET-117,Pancreatic,G3,IV,Yes,Yes,Yes,Progressive disease,False,Ready
+NET-118,Pancreatic,G3,II,Yes,Yes,Yes,Stable disease,False,Ready
+NET-119,Other,G1,I,Yes,Yes,No,Stable disease,False,Ready
+NET-120,Pancreatic,G1,II,Yes,Yes,Yes,Stable disease,True,Not Ready
+NET-121,Other,G1,II,Yes,Yes,Yes,Lost to follow-up,False,Ready
+NET-122,Other,G2,II,Yes,Yes,Yes,Complete remission,False,Ready
+NET-123,GI (small intestine),G3,II,Yes,Yes,Yes,Lost to follow-up,False,Ready
+NET-124,GI (small intestine),G1,II,Yes,Yes,Yes,Stable disease,False,Ready
+NET-125,GI (small intestine),G2,II,Yes,No,Yes,Stable disease,False,Ready
+NET-126,GI (small intestine),G1,IV,No,No,Yes,Lost to follow-up,True,Not Ready
+NET-127,GI (small intestine),G3,I,Yes,Yes,Yes,Stable disease,False,Ready
+NET-128,Lung,G3,III,Yes,Yes,No,Deceased,False,Ready
+NET-129,GI (small intestine),G2,III,Yes,Yes,Yes,Progressive disease,False,Ready
+NET-130,Pancreatic,G2,IV,Yes,Yes,Yes,Stable disease,False,Ready
+NET-131,Other,G1,I,Yes,Yes,Yes,Stable disease,False,Ready
+NET-132,GI (small intestine),G1,III,No,Yes,Yes,Stable disease,True,Not Ready
+NET-133,Lung,G1,IV,Yes,Yes,Yes,Stable disease,False,Ready
+NET-134,GI (small intestine),G2,IV,Yes,Yes,Yes,Stable disease,False,Ready
+NET-135,GI (small intestine),G2,IV,Yes,Yes,Yes,Stable disease,False,Ready
+NET-136,Lung,G3,II,Yes,Yes,Yes,Stable disease,False,Ready
+NET-137,GI (colorectal),G3,II,Yes,Yes,Yes,Stable disease,False,Ready
+NET-138,Other,G2,IV,Yes,Yes,Yes,Deceased,False,Ready
+NET-139,Lung,G2,IV,Yes,Yes,No,Lost to follow-up,False,Ready
+NET-140,Lung,G3,IV,Yes,Yes,Yes,Deceased,False,Ready
+NET-141,GI (small intestine),G2,IV,Yes,Yes,Yes,Lost to follow-up,False,Ready
+NET-142,GI (small intestine),G1,II,Yes,Yes,Yes,Lost to follow-up,False,Ready
+NET-143,Lung,G2,IV,Yes,Yes,Yes,Stable disease,False,Ready
+NET-144,Lung,G1,II,Yes,Yes,Yes,Stable disease,False,Ready
+NET-145,Other,G3,III,Yes,Yes,Yes,Lost to follow-up,False,Ready
+NET-146,Pancreatic,G2,III,Yes,Yes,No,Stable disease,False,Ready
+NET-147,Pancreatic,G1,III,Yes,Yes,Yes,Stable disease,False,Ready
+NET-148,Lung,G2,II,Yes,Yes,Yes,Complete remission,False,Ready
+NET-149,Pancreatic,G2,I,No,Yes,Yes,Stable disease,True,Not Ready
+NET-150,Other,G1,IV,Yes,Yes,Yes,Stable disease,False,Ready

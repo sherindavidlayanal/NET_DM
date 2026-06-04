@@ -1,0 +1,8 @@
+rule_id,rule_name,severity,query_count
+R01,Incomplete ENETS fields,High,32
+R02,Overdue follow-up,Medium,104
+R03,Treatment precedes diagnosis,High,4
+R04,G3 grade with Watch & Wait,High,4
+R05,MDT discussion not recorded,Medium,24
+R07,Chromogranin A not measured,Medium,22
+R09,Lost to follow-up on active treatment,Medium,26
